@@ -1,1 +1,6 @@
 Сравнение веток master и demo выявило появление 'пуговок' ноликов на одежде человека.
+Комментарии к комитам:
+Сравнение веток master и demo
+fix readme
+Сравнение веток master и demo
+Merge branch 'boots_buttons'
